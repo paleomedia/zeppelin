@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2", text: "Get Tickets"}
