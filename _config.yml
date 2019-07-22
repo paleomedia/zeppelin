@@ -192,7 +192,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest Summit news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "dasummit"
 
 # Speakers List Block

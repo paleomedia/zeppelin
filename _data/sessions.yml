@@ -1,21 +1,10 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
   title: "Tour of the Ali Center for Attendees"
   description: "Come see The Greatest!"
   subtype: tour
   speakers: []
-  language: en
+  
   # complexity: "Intermediate"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
@@ -23,8 +12,8 @@
   title: "Opening Reception"
   description: "With live DJ + promigra hiphop, red carpet, movement art & catered eats."
   subtype: reception
-  speakers: [4, 5]
-  language: en
+  speakers: []
+  
   complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/watch?v=N7x23Qd61Kk"
@@ -33,195 +22,167 @@
   title: "Opening Plenary"
   description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books."
   subtype: plenary
-  speakers: [4]
-  language: en
+  speakers: []
   complexity: "Intermediate" 
   presentation: "https://vimeo.com/222286506/75d52f6d4f"
 -
   id: 004
   title: "Climate Change & Migration: The future of immigration in the age of climate change"
   description: ""
-  subtype: keynote
-  speakers: [6]
-  language: en
+  subtype: workshop
+  speakers: []
   # complexity: "Beginner"
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "https://www.facebook.com/DefineAmerican/videos/611964985976945/UzpfSTM2OTE4MzkzOjEwMTAzMjM4MDkwOTQxOTYw/?q=define%20american%20lucky%20tran&epa=SEARCH_BOXQ"
 -
   id: 005
-  title: "How Artists Shape the Fabric of America"
+  title: "A Guide to Wellness"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en
-  # complexity: "Expert"
-  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: []
 -
   id: 006
   title: "How Artists Shape the Fabric of America"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 007
-  title: "How Artists Shape the Fabric of America"
-  description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en
+  title: "Lunch Plenary: Jose Antonio Vargas"
+  description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
+  subtype: plenary
+  speakers: []
+  # complexity: "Expert"
+  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 008
-  title: "How Artists Shape the Fabric of America"
+  title: "Networking Break"
   description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en-
+  subtype: break
+  speakers: []
 -
   id: 009
-  title: "How Artists Shape the Fabric of America"
-  description: ""
+  title: "Criminalization of Communities/Narratives:"
+  description: "Mass Detention and Mass Incarceration"
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 010
-  title: "How Artists Shape the Fabric of America"
+  title: "The Art of Self-Care"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 011
-  title: "How Artists Shape the Fabric of America"
-  description: ""
+  title: "#FactsMatter #SourcesMatter"
+  description: "Tracking anti-immigrant hate in your community and across the media"
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 012
-  title: "How Artists Shape the Fabric of America"
+  title: "Community Tours"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 013
-  title: "How Artists Shape the Fabric of America"
+  title: "Comedy Night"
   description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en-
+  subtype: culture
+  speakers: []
 -
   id: 014
-  title: "How Artists Shape the Fabric of America"
+  title: "Breakfast"
   description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en-
+  subtype: meal
+  speakers: []
 -
   id: 015
-  title: "How Artists Shape the Fabric of America"
+  title: "Morning Plenary TBD"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 016
-  title: "How Artists Shape the Fabric of America"
+  title: "Cultural auditing to change the local narrative"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 017
-  title: "How Artists Shape the Fabric of America"
+  title: "The Art of Self-Care"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 018
-  title: "How Artists Shape the Fabric of America"
+  title: "Can Comedy help Define American: How to use comedy to have uncomfortable conversations/reach across the aisle."
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 019
-  title: "How Artists Shape the Fabric of America"
+  title: ""
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 020
-  title: "How Artists Shape the Fabric of America"
+  title: "Production Training"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 021
-  title: "How Artists Shape the Fabric of America"
-  description: ""
+  title: "Lunch Plenary Panel: Writing Our Way Into America"
+  description: "How TV Writers Can Create a More Inclusive Society"
   subtype: workshop
-  speakers: [7]
-  language: en-
 -
   id: 022
-  title: "How Artists Shape the Fabric of America"
+  title: "Performance for Community Organizing"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 023
-  title: "How Artists Shape the Fabric of America"
+  title: "Resistance as Resilience: Using Digital Storytelling as a Tool to Survive & Thrive"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 024
-  title: "How Artists Shape the Fabric of America"
+  title: "Storytelling: Sharing your personal narrative for social change"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 025
-  title: "How Artists Shape the Fabric of America"
+  title: "Cultural Festival"
   description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en-
+  subtype: culture
+  speakers: []
 -
   id: 026
-  title: "How Artists Shape the Fabric of America"
+  title: "Live Taping TBD"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 027
-  title: "How Artists Shape the Fabric of America"
+  title: "Breakfast Plenary"
   description: ""
-  subtype: workshop
-  speakers: [7]
-  language: en-
+  subtype: plenary
+  speakers: []
 -
   id: 028
-  title: "How Artists Shape the Fabric of America"
+  title: "Define American Chapter Elections"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
 -
   id: 029
-  title: "How Artists Shape the Fabric of America"
+  title: "Closing remarks"
   description: ""
   subtype: workshop
-  speakers: [7]
-  language: en-
+  speakers: []
