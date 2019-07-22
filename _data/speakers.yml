@@ -4,19 +4,113 @@
   surname: "Eller"
   company: "Define American"
   title: "Executive Director"
-  bio: 'A descendant of nine generations from Appalachia, Ryan M. Eller is the Executive Director of Define American, the nations leading media and culture organization using the power of story to transcend politics and shift the conversation around immigrants, identity, and citizenship. Eller holds a B.S. in Political Science from Appalachian State University, a Masters Degree in Divinity from Wake Forest University, and a Masters Degree in Public Administration from Penn State University. Prior to joining Define American, he was the U.S. Campaigns Director at Change.org. For four years prior to that, he was the Executive Director of CHANGE in North Carolina—the largest broad-based community organizing group in the southern United States. He has extensive experience in the campaign arena as well, having managed political campaigns at both the local and federal level.'
+  bio: "A descendant of nine generations from Appalachia, Ryan M. Eller is the Executive Director of Define American, the nations leading media and culture organization using the power of story to transcend politics and shift the conversation around immigrants, identity, and citizenship. Eller holds a B.S. in Political Science from Appalachian State University, a Masters Degree in Divinity from Wake Forest University, and a Masters Degree in Public Administration from Penn State University. Prior to joining Define American, he was the U.S. Campaigns Director at Change.org. For four years prior to that, he was the Executive Director of CHANGE in North Carolina—the largest broad-based community organizing group in the southern United States. He has extensive experience in the campaign arena as well, having managed political campaigns at both the local and federal level."
   thumbnailUrl: RyanEller.png
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/ellerryan"}
+    - {name: "instagram", link: "https://instagram.com/ryanellerky"}
 - 
   id: 3
   name: "Jose Antonio"
   surname: "Vargas"
   company: "Define American"
   title: "Founder"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  bio: "Jose Antonio Vargas is a Pulitzer Prize-winning journalist, Emmy-nominated filmmaker, and Tony-nominated producer. A leading voice for the human rights of immigrants, he founded the non-profit media and culture organization Define American, named one of the World’s Most Innovative Companies by Fast Company. His best-selling memoir, Dear America: Notes of an Undocumented Citizen, was published by HarperCollins in 2018. Most recently, he co-produced Heidi Schreck’s acclaimed Broadway play What the Constitution Means to Me, which was nominated for two 2019 Tony awards, including Best Play."
   thumbnailUrl: JoseAntonioVargas.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/joseiswriting"}
+    - {name: "instagram", link: "https://instagram.com/joseiswriting"}
+-
+  id: 4
+  name: "Zahra"
+  surname: "Noorbakhsh"
+  company: "#GoodMuslimBadMuslim"
+  title: "Comedian"
+  bio: "ZAHRA NOORBAKHSH is a Feminist Muslim, Iranian-American comedian and cohost of the award-winning podcast, #GoodMuslimBadMuslim. The podcast was listed as a 'must listen,'' by Oprah Magazine and was invited to the Obama Whitehouse to record an episode. She is a Sr. Fellow on comedy for social change with the Pop Culture Collaborative. In addition to her two sold-out performances of her stand-up comedy special 'On Behalf of All Muslims' at the Golden Thread Theater in San Fransisco, her solo performance of 'All Atheists are Muslim: A Romantic Comedy,'' was originally directed by CNN’s W. Kamau Bell.  Reza Aslan says 'always insightful, always subversive...Zahra's comedic romps disrupt an outdated narrative.'' Her writing is featured in the NY Times and on NPR's Fresh Air with Terry Gross."
+  thumbnailUrl: ZahraNoorbakhsh.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/zahracomedy"}
+    - {name: "instagram", link: "https://instagram.com/zahracomedy"}
+- 
+  id: 5
+  name: "Nikita"
+  surname: "Hamilton"
+  company: "The Bold Type"
+  title: "Writer/Comedian"
+  bio: "Dr. Nikita T. Hamilton defended her doctoral dissertation Disturbing the Peace: Television, Disruption, and the Roles of Black Women at the Annenberg School for Communication and Journalism at the University of Southern California in 2017. Additionally, she earned a Graduate Certificate in Gender Studies from  USC’s Graduate School. Nikita is a former Annenberg Fellow, PAGE Fellow, and COMPASS Fellow whose research focused on representations of black women in television, cultural studies, and gender. She is currently a Council of Urban Professionals (CUP) Fellow in their inaugural Los Angeles cohort. Nikita received her undergraduate degree from University of Pennsylvania where she double-majored in Communication and Psychology. Nikita lives in Los Angeles where she writes, acts, performs stand-up, and participates in conversations examining gender and race in entertainment. She is the host of the podcast “The Whisper Network,” which looks at the jobs and open secrets of Hollywood, and is a co-host of the monthly backyard comedy show “Just Tryna Make Friends.” Nikita has worked as a Writers' Assistant for FX Networks, ABC Studios, and Marvel Television and recently held the position of Showrunner's Assistant for Universal Television. Nikita is currently a Staff Writer on Freeform’s The Bold Type."
+  thumbnailUrl: NikitaHamilton.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/NTHamilton"}
+    - {name: "instagram", link: "https://instagram.com/nikitathamilton"}
+-
+  id: 6
+  name: "Lucky"
+  surname: "Tran"
+  company: "The Climate March"
+  title: "Science Communicator"
+  bio: "I'm a scientist and media maker who loves helping people understand science using words, movies, data, and a friendly face."
+  thumbnailUrl: LuckyTran.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/luckytran"}
+    - {name: "instagram", link: "https://instagram.com/luckytrn"}
+-
+  id: 7
+  name: "Jenn"
+  surname: "Budd"
+  company: "Define American Ambassador"
+  title: "Immigration Activist"
+  bio: '<p>Jenn Budd is a former Senior Patrol Agent and Intelligence Agent with the United States Border Patrol. She served from 1995 to 2001 before resigning in protest over the corruption and unethical behavior she had witnessed on a near daily basis. She has spoken and written on both her time in the patrol as well as her work as an immigrants’ rights advocate. Read more about Jenn at the <a href="https://www.southernborder.org/q_a_with_jenn_budd">Southern Border Communities Coalition.</a></p>'
+  thumbnailUrl: JennBudd.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/buddjenn"}
+-
+  id: 8
+  name: "Christian"
+  surname: "Arteaga"
+  company: "Define American Artist Fellow"
+  title: “Writer/Actor"
+  bio: "Christian is a classically trained actor born in Mexico, and raised in California’s Central Valley. He has studied various disciplines including musical theatre, circus, Shakespeare and Classical texts. He has worked with several award winning theatre companies such as PCPA, Sierra Repertory Theatre, and Bay Area Children's Theatre, and has originated several bilingual roles. He finds his passion in using theatre as a form of activism, especially using verbatim theatre, in a cycle of productions called Community Speaks. He hopes to travel the country, interviewing people to highlight the narrative and stories surrounding The Wall and hopes to inspire compassion for immigrants in the process."
+  thumbnailUrl: ChristianArteaga.jpg
+  rockstar: false
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/christian__arteaga_/"}
+-
+  id: 9
+  name: "Lilian"
+  surname: "Shtereva"
+  company: "Define American Artist Fellow"
+  title: “Abstract Expressionist Painter"
+  bio: "Lilian is a Brooklyn-based painter who got her start in the arts growing up in Haskovo, Bulgaria. She studied at The Faculty of Fine Arts in Veliko Tarnovo, Bulgaria. She employs oil paint as a medium, gravitating towards colors and textures inspired by nature. The variations of texture and density within her practice, from heavy impasto to thin washes and drips, emphasize the tactile nature of the medium. In her work there is a great sensitivity to the imaginal realms that allows fantastical visions to unfold and find form. Lilian is a proud recipient of the Define American Artist Fellowship 2019. Most of her work can be seen in local Brooklyn group shows."
+  thumbnailUrl: LilianShtereva.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: "https://www.instagram.com/lilianspainting/"}
+-
+  id: 10
+  name: "Brian"
+  surname: "Herrera"
+  company: "Define American Artist Fellow"
+  title: “Graphic Designer”
+  bio: "Brian Herrera is a queer, undocumented immigrant and graphic artivist. He was born in Veracruz, Mexico and raised on the West Side of Chicago, Illinois. His passion is to uplift the voices of queer POC communities through various forms of illustration, print media, and marketing. His latest project focuses on giving a platform to other undocumented artists in the United States. Organizations and clients he has worked with include: The National Museum of Mexican Art, Puerto Rican Arts Alliance, Illinois Humanities Council, Free Street Theater, and Red Bull."
+  thumbnailUrl: BrianHerrera.jpg
+  rockstar: false
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/attitudeseven/"}
+-
+  id: 11
+  name: "Ana"
+  surname: "Armengod"
+  company: "Define American Artist Fellow"
+  title: “Multidisciplinary Artist”
+  bio: "Ana Armengod is a Mexican illustrator and film artist currently living in Braddock, Pennsylvania, born in Mazatlan, Sinaloa, Mexico. Her work is tied with nature and its death, as well as the small details that get lost in the bigger picture. Focused on accentuating the overlooked and unimportant, she gives magnitude to human reactions, history, emotion, and the environment while questioning how these things push us to evolve."
+  thumbnailUrl: AnaArmengod.jpg
+  rockstar: false
+  social:
+    - {name: "instagram", link: "https://www.instagram.com/humanleather/"}

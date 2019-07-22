@@ -22,7 +22,7 @@
   title: "Opening Plenary"
   description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books."
   subtype: plenary
-  speakers: []
+  speakers: [2]
   complexity: "Intermediate" 
   presentation: "https://vimeo.com/222286506/75d52f6d4f"
 -
@@ -30,7 +30,7 @@
   title: "Climate Change & Migration: The future of immigration in the age of climate change"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [6]
   # complexity: "Beginner"
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "https://www.facebook.com/DefineAmerican/videos/611964985976945/UzpfSTM2OTE4MzkzOjEwMTAzMjM4MDkwOTQxOTYw/?q=define%20american%20lucky%20tran&epa=SEARCH_BOXQ"
@@ -45,13 +45,13 @@
   title: "How Artists Shape the Fabric of America"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [9,10]
 -
   id: 007
   title: "Lunch Plenary: Jose Antonio Vargas"
   description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
   subtype: plenary
-  speakers: []
+  speakers: [3]
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -66,13 +66,13 @@
   title: "Criminalization of Communities/Narratives:"
   description: "Mass Detention and Mass Incarceration"
   subtype: workshop
-  speakers: []
+  speakers: [7]
 -
   id: 010
   title: "The Art of Self-Care"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [9,11]
 -
   id: 011
   title: "#FactsMatter #SourcesMatter"
@@ -114,13 +114,13 @@
   title: "The Art of Self-Care"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [9,11]
 -
   id: 018
   title: "Can Comedy help Define American: How to use comedy to have uncomfortable conversations/reach across the aisle."
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [4]
 -
   id: 019
   title: ""
@@ -138,12 +138,13 @@
   title: "Lunch Plenary Panel: Writing Our Way Into America"
   description: "How TV Writers Can Create a More Inclusive Society"
   subtype: workshop
+  speakers: [5]
 -
   id: 022
   title: "Performance for Community Organizing"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [8]
 -
   id: 023
   title: "Resistance as Resilience: Using Digital Storytelling as a Tool to Survive & Thrive"

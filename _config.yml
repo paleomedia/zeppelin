@@ -182,13 +182,13 @@ footerBlocks:
   links:
    - {link: "http://defineamerican.com", text: "defineamerican.com"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:info@defineamerican.com", text: "info@defineamerican.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ #-
+ # title: "FAQ"
+ # links:
+ #  - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest Summit news"
