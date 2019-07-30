@@ -4,7 +4,7 @@
     padding-top: 0;
     background: $base-section-background-color;
     @media (max-width: 767px) {
-        min-height: 200px;
+        max-height: 450px;
         padding: 0;
     }
     .gradient-overlay {
