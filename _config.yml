@@ -45,12 +45,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Tickets"}
  # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2", text: "Get Tickets"}
+ - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get Tickets"}
 rightNavigationButtons:
- - {link: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2", text: "Get Tickets"}
+ - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,7 +59,7 @@ eventDate: "October 10-13, 2019"
 typeoutTextValues: '"Culture", "Immigration", "Identity", "Race"'
 typeoutFallback: "Louisville"
 heroButtons:
- - {link: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2", text: "Get tickets"}
+ - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get tickets"}
 
 # About Block
 aboutTitle: "Join us in Louisville"
@@ -137,7 +137,7 @@ ticketsOffers:
   priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-33%"
-  buyButtonLink: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2"
+  buyButtonLink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575"
   buyButtonText: "Buy Now"
   ticketContentList: ["Full summit", "General admission", "Ticket price going up soon"]
   validFrom: "2019-07-01T10:00"
@@ -149,7 +149,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-50%"
   featured: true
-  buyButtonLink: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2"
+  buyButtonLink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575"
   buyButtonText: "Buy Now"
   ticketContentList: ["Full entry for chapter members", "Eat. Drink. Learn. Teach.", "Get your tix today!"]
   validFrom: "2019-07-01T10:00"
@@ -161,7 +161,7 @@ ticketsOffers:
   priceCurrency: "USD"
   ticketsNumber: "50"
   ribbon: "-50%"
-  buyButtonLink: "https://secure.everyaction.com/C38CuH6iU0CsBa3caaAvCQ2"
+  buyButtonLink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in."
   ticketContentList: ["All students welcome!", "Learn about Define American Chapters.", "Buy ticket today!"]
