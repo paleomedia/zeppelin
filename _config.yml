@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Tickets"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Getting there"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get Tickets"}
 rightNavigationButtons:
@@ -218,34 +218,21 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Louisville"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Louisville International Airport (SDF)", information: 'The airport is due south of the city center. It is easily reachable by car, public transport or taxi. More information is available at <a href="https://www.flylouisville.com/">airport website</a>.'}
+ - {title: "Airport shuttle", information: 'Shuttle service from the airport can be reserved for a charge to the Galt House Hotel. Shuttle departs at quarter of and quarter to, from 7:15 am through 11:45 pm. $15 per one-way trip, or $25 per round trip. <br /><em>To reserve</em>: To reserve your seat on a shuttle, please contact Xtreme Transportation at (502) 561-4022 or galthouseshuttle@xtlimo.com. <br />Lyft and Uber services are readily available at the Louisville airport.'}
+ - {title: "Accomodations", information: 'The Summit hotel is the <a href="https://www.galthouse.com/">Galt House Hotel</a>. In order to make reservations in our group block, call 1-800-843-4258 and mention “Define American Summit” The group rate of $159/night will expire on September 20, 2019.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Hotel"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.galthouse.com/", text: "Galt House Hotel"}
    -
-    title: "Registration"
+    title: "Summit Registration"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get Summit Tickets"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
