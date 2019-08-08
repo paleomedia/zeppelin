@@ -110,7 +110,31 @@
   company: "Define American Artist Fellow"
   title: “Multidisciplinary Artist”
   bio: "Ana Armengod is a Mexican illustrator and film artist currently living in Braddock, Pennsylvania, born in Mazatlan, Sinaloa, Mexico. Her work is tied with nature and its death, as well as the small details that get lost in the bigger picture. Focused on accentuating the overlooked and unimportant, she gives magnitude to human reactions, history, emotion, and the environment while questioning how these things push us to evolve."
-  thumbnailUrl: AnaArmengod.jpg
+  thumbnailUrl: AnaArmengod1.jpg
   rockstar: false
   social:
     - {name: "instagram", link: "https://www.instagram.com/humanleather/"}
+-
+id: 12
+name: "Dan"
+surname: "Trabue"
+company: ""
+title: “Artist”
+bio: "There is a Wild-ness in every step we take, if Wild, we wish to be. Dan Trabue wishes to be wild. His artwork (mostly watercolor and pen and ink) tends to focus on natural themes, the sky, the land, the trees, the wildlife in the area. Infused into these natural themes, Dan works in people playing music, dancing, poetry, and working for a more just, welcoming and green world. His art tends to be whimsical and fun, bright and cheery, but there are heavy matters at play in his art, as well. Dan is a relatively new artist, but he has shown up at local festivals and his art has been at the Wayside Expressions Gallery. Dan loves collaborating with other artists across media and embracing the Community of the Wild wherever it may be found."
+thumbnailUrl: DanTrabue.jpg
+rockstar: false
+social:
+   - {name: "twitter", link: ""}
+   - {name: "instagram", link: "https://www.instagram.com/dantrabue/"}
+-
+id: 13
+name: "Yunier"
+surname: "Ramirez Cedeno"
+company: ""
+title: “Artist”
+bio: "Yunier Ramirez Cedeno was born in Holguin, Cuba and currently lives in Louisville, KY. Yunier believes that art is a necessity and that photography can be a powerful storytelling tool. Dedicated to teaching philosophy, culture, and photography, he collaborated with the special education system in Cuba to introduce autistic children to photography. He has exhibited both painting and photography including at the We Create Festival in Louisville, KY with his Lost Boys series - a photography and video installation. He is a member of The Glass Eye Ensemble, where he was an active part of the project and exhibition The Dance for the poet Ron Whitehead. Yunier won the Community Award at Flux Gallery. He has a BA in Accounting and Finance and an MA in History and Culture from the University of Holguín. He also served as a professor of that university for 9 years."
+thumbnailUrl: YunierRamirez.jpg
+rockstar: false
+social:
+   - {name: "twitter", link: ""}
+   - {name: "instagram", link: "https://www.instagram.com/rcstudio80/"}
