@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Tickets"}
- - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/define-american-summit-tickets-67633819575", text: "Get Tickets"}
 rightNavigationButtons:
