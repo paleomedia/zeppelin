@@ -108,7 +108,16 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Muhammad Ali Center"
-venueFeatures: ["Red Carpet & Step & Repeat Backdrop", "Live DJ + Promigra Hip Hop", "Chapters Video Award"]
+venueFeatures: ["140 N. 4th St.","Red Carpet & Step & Repeat Backdrop", "Live DJ + Promigra Hip Hop", "Chapters Video Award"]
+
+#Comedy Night Block
+comedyBlockTitle: "Comedy Night"
+comedyBigImage: "comedy_0.png"
+comedySmallImage1: "comedy_1.png"
+comedySmallImage2: "comedy_2.jpg"
+comedySmallImage3: "comedy_3.jpg"
+comedyTitle: "Mercury Ballroom"
+comedyFeatures: ["Culture Changing Comedians", "611 S 4th St"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
