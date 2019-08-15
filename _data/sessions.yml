@@ -12,15 +12,14 @@
   title: "Opening Reception"
   description: "With live DJ + promigra hiphop, red carpet, movement art & catered eats."
   subtype: reception
-  speakers: []
-  
-  complexity: "Intermediate" 
+  speakers: [14]
+  # complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/watch?v=N7x23Qd61Kk"
+  presentation: "https://www.youtube.com/watch?time_continue=7&v=N7x23Qd61Kk"
 -
   id: 003
   title: "Opening Plenary"
-  description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books."
+  description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books. According to the City of Louisville, the Louisville community has seen unprecedented growth in its immigrant population in recent years, and Louisville Metro Government’s Office for Globalization is implementing new strategies to engage the international population. We can think of no better place in which to tell these stories."
   subtype: plenary
   speakers: [2]
   complexity: "Intermediate" 
@@ -36,7 +35,7 @@
   video: "https://www.facebook.com/DefineAmerican/videos/611964985976945/UzpfSTM2OTE4MzkzOjEwMTAzMjM4MDkwOTQxOTYw/?q=define%20american%20lucky%20tran&epa=SEARCH_BOXQ"
 -
   id: 005
-  title: "A Guide to Wellness"
+  title: "How did we get here? Examining the state of our mental health."
   description: ""
   subtype: workshop
   speakers: []
@@ -45,10 +44,10 @@
   title: "How Artists Shape the Fabric of America"
   description: ""
   subtype: workshop
-  speakers: [9,10]
+  speakers: [9,10,13,12]
 -
   id: 007
-  title: "Lunch Plenary: Jose Antonio Vargas"
+  title: "Redefining Hollywood with Jose Antonio Vargas and Melinna Bobadilla (Orange is the New Black)"
   description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
   subtype: plenary
   speakers: [3]
@@ -76,7 +75,7 @@
 -
   id: 011
   title: "#FactsMatter #SourcesMatter"
-  description: "Tracking anti-immigrant hate in your community and across the media"
+  description: "Tracking anti-immigrant hate in your community and across the media."
   subtype: workshop
   speakers: []
 -
@@ -87,10 +86,10 @@
   speakers: []
 -
   id: 013
-  title: "Comedy Night"
-  description: ""
+  title: "Comedy Night at Mercury Ballroom (611 S 4th St.)"
+  description: '<p>This year at the DA Summit, we are presenting a night of immigrant comedy! Comedy can be one of the most powerful mediums not only for storytelling, but also for narrative and culture change.</p> <p>In this critical time, we have an incredible opportunity to challenge existing narratives by using comedy to reach beyond the choir and influence public perception around immigrants and immigration in our country.</p> <p>Come join national renown comedians Felonious Munk, Zahra Noorbakhsh and others! (Included with full Summit ticket. <a href="https://www.universe.com/events/define-american-summit-comedy-night-tickets-RL2CVY">Comedy night only tickets also available</a>.</p>'
   subtype: culture
-  speakers: []
+  speakers: [4]
 -
   id: 014
   title: "Breakfast"
@@ -99,9 +98,9 @@
   speakers: []
 -
   id: 015
-  title: "Morning Plenary TBD"
-  description: ""
-  subtype: workshop
+  title: "Conservative Ideals/Ideal Conservatives"
+  description: "Define American believes that in order to humanize the conversation around new Americans we must expand the scope of the conversation. We cannot afford to only have this conversation in a silo; we must expand the conversation beyond the choir. We are thrilled to invite prominent conservatives to hold a conversation about how we can work together to shift the tenor of the conversation around immigration in America."
+  subtype: plenary
   speakers: []
 -
   id: 016
@@ -136,7 +135,7 @@
 -
   id: 021
   title: "Lunch Plenary Panel: Writing Our Way Into America"
-  description: "How TV Writers Can Create a More Inclusive Society"
+  description: "Culture and narrative change work are more important today than ever. How do the stories we see on television and representation in Hollywood impact the way we feel about marginalized communities and how we behave towards people of different experiences? Hollywood writers from your favorite primetime TV shows discuss their own projects and experiences, what it means to them, and how they envision long-lasting industry-wide change."
   subtype: workshop
   speakers: [5]
 -
@@ -159,7 +158,7 @@
   speakers: []
 -
   id: 025
-  title: "Cultural Festival"
+  title: "Cultural and Mural Festival"
   description: ""
   subtype: culture
   speakers: []
@@ -172,7 +171,8 @@
 -
   id: 027
   title: "Breakfast Plenary"
-  description: ""
+  description: "Lightning Round: A facilitated breakfast session to record closing 
+thoughts from the summit, reflect on work to be done, and propose next steps. We will nominate a few featured speakers and open the floor for brief comments from anyone who has something to share."
   subtype: plenary
   speakers: []
 -

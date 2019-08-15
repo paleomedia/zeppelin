@@ -1,8 +1,8 @@
 - 
   date: "2019-10-10"
-  dateReadable: "October 10"
+  dateReadable: "Thursday, October 10"
   tracks: 
-    - {title: "Summit Kickoff", color: "#90be4e"}
+    - {title: "Summit Kickoff: Muhammad Ali Center (144 N 6th St)", color: "#90be4e"}
   #  - {title: "Web & Cloud", color: "#03a9f4"}
   #  - {title: "Community", color: "#e91e63"}
   timeslots:
@@ -18,12 +18,11 @@
     }
 -
   date: "2019-10-11"
-  dateReadable: "October 11"
+  dateReadable: "Friday, October 11 (GALT House Hotel, 140 N Fourth St.)"
   tracks: 
     - {title: "Leadership & Organizational Development", color: "#90be4e"}
     - {title: "Mental Health & Self Care:", color: "#03a9f4"}
-    - {title: "Exploring American Identity through Media, Storytelling, and Entertainment
-"}
+    - {title: "Exploring American Identity through Media, Storytelling, and Entertainment"}
   timeslots: 
     - {
     	startTime: "10:00",
@@ -62,7 +61,7 @@
     }
 -
   date: "2019-10-12"
-  dateReadable: "October 12"
+  dateReadable: "Saturday, October 12 (GALT House Hotel, 140 N Fourth St.)"
   tracks: 
     - {title: "Leadership & Organizational Development", color: "#90be4e"}
     - {title: "Mental Health & Self Care:", color: "#03a9f4"}
@@ -70,7 +69,7 @@
 "}
   timeslots: 
     - {
-    	startTime: "9:30",
+    	startTime: "8:30",
     	endTime: "10:00",
     	sessionIds: [014]
     }
@@ -106,9 +105,9 @@
     }
 -
   date: "2019-10-13"
-  dateReadable: "October 13"
+  dateReadable: "Sunday, October 13 (GALT House Hotel, 140 N Fourth St.)"
   tracks:
-    - {title: "Full Group", color: "#90be4e"}
+    - {title: "Full Group: Our inclusive future, where we are headed", color: "#90be4e"}
   timeslots: 
     - {
     	startTime: "10:00",

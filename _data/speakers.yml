@@ -138,3 +138,16 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "instagram", link: "https://www.instagram.com/rcstudio80/"}
+-
+  id: 14
+  name: "Alexis"
+  surname: "Machado"
+  company: " "
+  title: "Rapper"
+  bio: "Alexis Torres Machado, otherwise known as AyTieM, is a Newark based rapper and actor. Alexis came to the U.S at the age of five from Montevideo, Uruguay. His struggle as an undocumented immigrant, along with an increasingly hostile political climate, caused him to make the song titled 'For My Immigrants,'' which has been shared by major news outlets such as Now This and WYNC. Alexis graduated last Spring, Summa Cum Laude with a degree in Theater and a minor in Psychology from Rutgers Newark. He is currently employed by Newark Public Schools but hopes to continue to pursue his dreams in the music and film industry. Follow him on instagram @therealaytiem for more information."
+  thumbnailUrl: AlexisMachado.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/aytiem"}
+    - {name: "instagram", link: "https://www.instagram.com/therealaytiem"}
+
