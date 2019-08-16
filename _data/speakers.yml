@@ -150,4 +150,16 @@
   social:
     - {name: "twitter", link: "https://twitter.com/aytiem"}
     - {name: "instagram", link: "https://www.instagram.com/therealaytiem"}
+-
+  id: 15
+  name: "Lindsay"
+  surname: "Schubiner"
+  company: "Western States Center"
+  title: "MOMENTUM Project Director"
+  bio: "Lindsay Schubiner directs Western States Center’s program to counter the dangerous ascension of white nationalism and hate violence across the country. She previously led advocacy efforts against anti-immigrant and anti-Muslim bigotry at the Center for New Community. Lindsay has served as a Congressional staffer handling housing, health, and immigration policy, and managed advocacy for sexual health and rights at American Jewish World Service. "
+  thumbnailUrl: LindsaySchubiner.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lschubiner"}
+    - {name: "instagram", link: ""}
 
