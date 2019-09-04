@@ -162,4 +162,117 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lschubiner"}
     - {name: "instagram", link: ""}
+-
+  id: 16
+  name: "Felonious"
+  surname: "Monk"
+  company: ""
+  title: "Comedian + Writer"
+  bio: "Felonious Munk, best-known as the Blegghead (Black egghead) on Comedy Central’s The Nightly Show with Larry Wilmore, is a stand-up comedian and writer based out of Chicago. His comedy is a fusion of family tales and observations on society. He has collaborated with The Second City on two award-nominated shows, and was named Chicago’s Comedian of the Year by the Chicago Tribune. Munk has toured all over the U.S., headlining Gotham Comedy Club in NYC, the Funny Bone in Richmond and Virginia Beach, and the Laugh Factory and Zanies in Chicago. He has also performed at other major clubs including The Comedy Store in LA, the Improvs in LA and Chicago, and The Stand, NY Comedy Club, Stand Up NY, and Comic Strip in NYC. Up-and-coming and already here, Felonious Munk is one to watch!"
+  thumbnailUrl: FeloniousMunk.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Felonious_munk"}
+    - {name: "instagram", link: "http://instagram.com/felonious_munk"}
+-
+  id: 17
+  name: "Gabrielle"
+  surname: "Jackson"
+  company: "UndocuBlack Network"
+  title: "Co-founder"
+  bio: "Gabrielle Jackson is a therapist and clinical social worker in the Washington DC area. Originally from Trinidad and Tobago, her purpose and passion is the mental and emotional well-being of the Black community, with an emphasis on Black immigrants. Gabrielle is a co-founder of the UndocuBlack Network, a multi-generational network of directly affected Black undocumented people that fosters community, facilitates access to resources, and contributes to transforming the realities of their communities. She currently serves as the network’s Mental Wellness Director, leading their Mental Wellness Initiative, and is the author of The UndocuBlack Guide for Mental Wellness Specialists and The Alive and Well Discussion Series."
+  thumbnailUrl: GabrielleJackson.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/therealaytiem"}
+    - {name: "instagram", link: ""}
+-
+  id: 18
+  name: "Dino-Ray"
+  surname: "Ramos"
+  company: "Deadline"
+  title: "Associate Editor"
+  bio: "Dino-Ray Ramos is an Associate Editor at Deadline Hollywood where he reports on inclusion, diversity, and representation in film and TV. In addition, he covers genre film & TV, as well as pop culture and media. Based in Los Angeles, he attends and reports on events and awards shows such as the Oscars, Emmys, Golden Globes, Comic-Con, SXSW, and the TCA press tour. He is the co-host and creator of the New Hollywood Podcast, which champions people of color, women, members of the LGBTQ community, and other underrepresented voices in film and television. A Texas native, Dino-Ray worked as a film and TV reporter for the Oakland Tribune and San Francisco Chronicle before moving to Los Angeles. Prior to Deadline, he was chief film critic at the Tracking Board and has written for numerous publications including Vogue, Entertainment Tonight, Bustle, Paste Magazine, and Queerty."
+  thumbnailUrl: DinoRayRamos.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/dinoray"}
+    - {name: "instagram", link: "https://instagram.com/dinoray"}
+-
+  id: 19
+  name: "Julio Ricardo"
+  surname: "Varela"
+  company: "Futuro Media/Latino USA"
+  title: "Digital Media Director"
+  bio: "As Digital Media Director for Futuro Media, Julio (Julito) Ricardo Varela works with the Latino USA team to promote the show’s episodes and expand its social reach. He is a frequent contributor to the show and the editor of the show’s official site, LatinoUSA.org. He also co-hosts In The Thick with Maria Hinojosa. In 2011, Julio founded LatinoRebels.com, one of the top U.S. Latino media sites in the world. Previously, he was digital producer for Al Jazeera America’s “The Stream” and his work has been featured in many global outlets, including the Guardian, ESPN, the New York Times, Quartz, Le Monde, WGBH, WNYC, Face the Nation, MSNBC, Fusion, Univision and Telemundo. He has made numerous national TV appearances for Latino USA and Futuro Media.
+  
+  In 2015, the National Association of Hispanic Journalists honored Julio with its inaugural DALE (pronounced like Pitbull would say it) Award, given to “given to an individual or company that steps up and goes above and beyond to ensure Latinos are fairly and accurately represented.” A native of Puerto Rico, Julio spent his childhood between San Juan and the Bronx. He was also a contributing reporter at The Boston Globe. Julio graduated cum laude from Harvard College."
+  thumbnailUrl: JulioRicardoVarela.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/julito77"}
+    - {name: "instagram", link: "https://instagram.com/julito77"}
+-
+  id: 20
+  name: "Maria"
+  surname: "Hinojosa"
+  company: "Futuro Media/Latino USA"
+  title: "President/CEO"
+  bio: "As a reporter who was the first Latina in many newsrooms, Maria Hinojosa dreamt of a space where she could create independent, multimedia journalism that explores and gives a critical voice to the diverse American experience. To that end, in 2010, she created the Futuro Media Group, an independent, nonprofit organization based in Harlem, NYC with the mission to create multimedia content for and about the new American mainstream in the service of empowering people to navigate the complexities of an increasingly diverse and connected world.
 
+  As the Anchor and Executive Producer of the Peabody Award-winning show Latino USA, distributed by NPR, as well as Co-Host of In The Thick, the Futuro Media Group’s new political podcast, Hinojosa has informed millions about the changing cultural and political landscape in America and abroad. Hinojosa is also Anchor and Executive Producer of the PBS show America By The Numbers, the first national television series to examine our country’s dramatic demographic shifts, and Humanizing America, a digital video series that deconstructs stereotypes about the American electorate. She is also a new contributor to the long-running, award-winning news program CBS Sunday Morning and a frequent guest on MSNBC."
+  thumbnailUrl: MariaHinojosa.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Maria_Hinojosa"}
+    - {name: "instagram", link: "https://instagram.com/maria_la_hinojosa"}
+-
+  id: 21
+  name: "Alex"
+  surname: "Nowrasteh"
+  company: "CATO Institute Center for Global Liberty and Prosperity"
+  title: "Director of Immigration Studies"
+  bio: "Alex Nowrasteh is the director of immigration studies at the Cato Institute’s Center for Global Liberty and Prosperity. His popular publications have appeared in the Wall Street Journal, USA Today, the Washington Post, and most other major publications in the United States. His peer-reviewed academic publications have appeared in The World Bank Economic Review, the Journal of Economic Behavior and Organization, Economic Affairs, the Fletcher Security Review, the Journal of Bioeconomics, and Public Choice. Alex regularly appears on Fox News, MSNBC, Bloomberg, NPR, and numerous television and radio stations across the United States. He is a coauthor of the booklet Open Immigration: Yea and Nay (Encounter Broadsides, 2014). He is a native of Southern California and received a BA in economics from George Mason University and a Master of Science in economic history from the London School of Economics."
+  thumbnailUrl: AlexNowrasteh2.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AlexNowrasteh"}
+    - {name: "instagram", link: ""}
+-
+  id: 22
+  name: "Monica"
+  surname: "Macer"
+  company: "Gentefied, Queen Sugar, Nashville, Deception, Prison Break, Lost"
+  title: "TV Writer/Producer"
+  bio: ""
+  thumbnailUrl: MonicaMacer.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/monicamacer"}
+    - {name: "instagram", link: ""}
+-
+  id: 23
+  name: "Sanjay"
+  surname: "Shah"
+  company: "Central Park (Apple), Fresh Off The Boat, Enlisted, South Park, King of the Hill, Pixar"
+  title: "TV Writer/Co-showrunner"
+  bio: ""
+  thumbnailUrl: SanjayShah.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/sanjayshah"}
+    - {name: "instagram", link: ""}
+-
+  id: 24
+  name: "Hassan"
+  surname: "Ahmad"
+  company: "HMA Law Firm"
+  title: "Founder & Principle Attorney"
+  bio: "Hassan is the founder and principal of the HMA Law Firm. Hassan holds a law degree from Tulane Law School in New Orleans, Louisiana. While in law school, he clerked for a high-profile New Orleans firm where he learned and was trained in a considerable variety of legal fields, ranging from personal injury to commercial litigation to medical malpractice. Prior to his career as a lawyer, Hassan was a successful and motivational teacher. He taught Urdu and Hindi at North Carolina State University in Raleigh, NC and also taught high school classes in religion and law. He maintained a career as a real estate sales agent in North Carolina. Hassan was born and raised in North Carolina and now resides in Virginia with his family. Hassan is fluent or proficient in eight languages besides English.
+  
+  Hassan is also an immigrant rights advocate who firmly believes that serving clients means not only direct representation, but also advocating for their interests before lawmakers, and informing them of what his clients are actually going through. His clients' stories have been told to  legislators, governors, and policy makers. His ability to advocate in this way is why he was appointed by Gov. Terry McAuliffe to serve on the Virginia Asian Advisory Board, helping advise the Governor on issues facing the AAPI community. and beyond, as well as the Commonwealth Commission on Diversity, Equity, and Inclusion. It is why he also serves on the board of the Dulles Justice Coalition, the group of airport lawyers who represented clients in the wake of President Trump's travel ban. It is why he takes on anti-immigrant groups who see immigrants as a threat, and is not afraid to expose their hateful rhetoric for what it is."
+  thumbnailUrl: HassanAhmad.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/hmaesq"}
+    - {name: "instagram", link: ""}

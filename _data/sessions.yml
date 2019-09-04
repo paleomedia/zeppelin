@@ -12,7 +12,7 @@
   title: "Opening Reception"
   description: "With live DJ + promigra hiphop, red carpet, movement art & catered eats."
   subtype: reception
-  speakers: [14]
+  speakers: [14,2]
   # complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   presentation: "https://www.youtube.com/watch?time_continue=7&v=N7x23Qd61Kk"
@@ -137,7 +137,7 @@
   title: "Lunch Plenary Panel: Writing Our Way Into America"
   description: "Culture and narrative change work are more important today than ever. How do the stories we see on television and representation in Hollywood impact the way we feel about marginalized communities and how we behave towards people of different experiences? Hollywood writers from your favorite primetime TV shows discuss their own projects and experiences, what it means to them, and how they envision long-lasting industry-wide change."
   subtype: workshop
-  speakers: [5]
+  speakers: [5,22,23]
 -
   id: 022
   title: "Performance for Community Organizing"
