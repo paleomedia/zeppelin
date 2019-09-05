@@ -276,3 +276,21 @@
   social:
     - {name: "twitter", link: "https://twitter.com/hmaesq"}
     - {name: "instagram", link: ""}
+-
+  id: 25
+  name: "Greg"
+  surname: "Fischer"
+  company: "City of Louisville"
+  title: "Mayor"
+  bio: "Greg Fischer is in his third term as Louisville’s 50th Mayor. He was named a Public Official of the Year from Governing magazine in 2013. A 2016 Politico survey named him as the most innovative mayor in America, and in June 2017, Politico named him among its list of 11 most interesting mayors in America. Mayor Fischer is a trustee for the U.S. Conference of Mayors.
+
+  During Mayor Fischer’s tenure, Louisville has added 80,000 jobs and 2,700 new businesses. Thirteen billion dollars in capital construction is planned or underway in the city, and between 2014 and 2016, 11,000 Louisvillians worked themselves out of poverty, and another 8,300 families joined the middle class. Louisville has been named an International Model City of Compassion four times. The city’s strong financial management has been recognized with positive ratings by the nation’s “Big Three” credit agencies.
+
+  Fischer is a longtime entrepreneur who started several businesses, including SerVend International and Iceberg Ventures, a private investment firm. He also co-founded bCatalyst, the first business accelerator in Louisville.
+
+  Mayor Fischer graduated from Trinity High School and Vanderbilt University. He and his wife Alex have four children."
+  thumbnailUrl: GregFischer.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/louisvillemayor"}
+    - {name: "instagram", link: "https://www.instagram.com/mayorgregfischer/"}

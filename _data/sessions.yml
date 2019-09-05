@@ -12,7 +12,7 @@
   title: "Opening Reception"
   description: "With live DJ + promigra hiphop, red carpet, movement art & catered eats."
   subtype: reception
-  speakers: [14,2]
+  speakers: [14,2, 25]
   # complexity: "Intermediate" 
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   presentation: "https://www.youtube.com/watch?time_continue=7&v=N7x23Qd61Kk"
@@ -21,7 +21,7 @@
   title: "Opening Plenary"
   description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books. According to the City of Louisville, the Louisville community has seen unprecedented growth in its immigrant population in recent years, and Louisville Metro Government’s Office for Globalization is implementing new strategies to engage the international population. We can think of no better place in which to tell these stories."
   subtype: plenary
-  speakers: [2]
+  speakers: [2,25]
   complexity: "Intermediate" 
   presentation: "https://vimeo.com/222286506/75d52f6d4f"
 -
@@ -38,7 +38,7 @@
   title: "How did we get here? Examining the state of our mental health."
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [17]
 -
   id: 006
   title: "How Artists Shape the Fabric of America"
@@ -50,7 +50,7 @@
   title: "Redefining Hollywood with Jose Antonio Vargas and Melinna Bobadilla (Orange is the New Black)"
   description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
   subtype: plenary
-  speakers: [3]
+  speakers: [3,25]
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -77,7 +77,7 @@
   title: "#FactsMatter #SourcesMatter"
   description: "Tracking anti-immigrant hate in your community and across the media."
   subtype: workshop
-  speakers: [15]
+  speakers: [15,24]
 -
   id: 012
   title: "Community Tours"
@@ -89,7 +89,7 @@
   title: "Comedy Night at Mercury Ballroom (611 S 4th St.)"
   description: '<p>This year at the DA Summit, we are presenting a night of immigrant comedy! Comedy can be one of the most powerful mediums not only for storytelling, but also for narrative and culture change.</p> <p>In this critical time, we have an incredible opportunity to challenge existing narratives by using comedy to reach beyond the choir and influence public perception around immigrants and immigration in our country.</p> <p>Come join national renown comedians Felonious Munk, Zahra Noorbakhsh and others! (Included with full Summit ticket. <a href="https://www.universe.com/events/define-american-summit-comedy-night-tickets-RL2CVY">Comedy night only tickets also available</a>.</p>'
   subtype: culture
-  speakers: [4]
+  speakers: [4,16]
 -
   id: 014
   title: "Breakfast"
@@ -101,7 +101,7 @@
   title: "Conservative Ideals/Ideal Conservatives"
   description: "Define American believes that in order to humanize the conversation around new Americans we must expand the scope of the conversation. We cannot afford to only have this conversation in a silo; we must expand the conversation beyond the choir. We are thrilled to invite prominent conservatives to hold a conversation about how we can work together to shift the tenor of the conversation around immigration in America."
   subtype: plenary
-  speakers: []
+  speakers: [21]
 -
   id: 016
   title: "Cultural auditing to change the local narrative"
@@ -137,7 +137,7 @@
   title: "Lunch Plenary Panel: Writing Our Way Into America"
   description: "Culture and narrative change work are more important today than ever. How do the stories we see on television and representation in Hollywood impact the way we feel about marginalized communities and how we behave towards people of different experiences? Hollywood writers from your favorite primetime TV shows discuss their own projects and experiences, what it means to them, and how they envision long-lasting industry-wide change."
   subtype: workshop
-  speakers: [5,22,23]
+  speakers: [5,22,23,18]
 -
   id: 022
   title: "Performance for Community Organizing"
@@ -164,10 +164,10 @@
   speakers: []
 -
   id: 026
-  title: "Live Taping TBD"
+  title: "Live Taping of Latino USA"
   description: ""
   subtype: workshop
-  speakers: []
+  speakers: [19,20]
 -
   id: 027
   title: "Breakfast Plenary"
