@@ -308,3 +308,36 @@
   social:
     - {name: "twitter", link: "https://twitter.com/melinnateatrina"}
     - {name: "instagram", link: "https://www.instagram.com/melinnabobadilla"}
+-
+  id: 27
+  name: "Mary Angelica"
+  surname: "Molina"
+  company: "Party of Five"
+  title: "Writer/Director/Producer"
+  bio: "I write funny, dark, queer, intersectional stories about Latinxs who grapple with unanswerable questions like: Who am I? Where do I belong? Should I have the sweet plantains or the salty plantains. I’m most interested in that special place where commercial narratives meet experimental ones and write to that end. I truly believe there is a market for artful, bold, well-told stories by people of color and want to nurture that audience. 
+  
+  My work has been recognized by the Sundance Institute, IFP, The Latino Film Fund, and the Brooklyn Arts Council. 
+  I also work as a producer and consultant for media companies in New York. Previous clients include ABC, Yahoo!, PBS as well as various prominent independent filmmakers. 
+
+  I’m a fan of champeta, butifarra, Obregón, and most things that have to do with the Colombian tropics, which will forever be my first home."
+  thumbnailUrl: MaryAngelicaMolina.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/maryangelrox"}
+    - {name: "instagram", link: "https://www.instagram.com/maryangelrox/"}
+-
+  id: 28
+  name: "Aparna"
+  surname: "Nancherla"
+  company: ""
+  title: "Comedian"
+  bio: "Aparna Nancherla is a comedian and general silly billy. Her sense of humor is dry, existential, and absurd, with notes of uncalled-for whimsy. Think a wine you didn’t order.
+
+  You can watch Aparna as Grace the belabored HR rep on the Comedy Central show, Corporate or hear her as the voice of Hollyhock on Bojack Horseman.
+
+  She also has a half-hour special on the second season of The Standups on Netflix, as well as appearances on Late Night with Stephen Colbert on CBS and Two Dope Queens on HBO. Other acting credits include A Simple Favor, Crashing, High Maintenance, Master of None, and Inside Amy Schumer. Aparna was also named one of “The 50 Funniest People Right Now” by Rolling Stone. She also co-hosted the 2018 Women’s March Rally in NYC. In 2019, she was in a Super Bowl commercial with Michael Bublé for sparkling water neé seltzer."
+  thumbnailUrl: AparnaNancherla.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/aparnapkin"}
+    - {name: "instagram", link: "https://www.instagram.com/aparnapkin/"}

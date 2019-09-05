@@ -89,7 +89,7 @@
   title: "Comedy Night at Mercury Ballroom (611 S 4th St.)"
   description: '<p>This year at the DA Summit, we are presenting a night of immigrant comedy! Comedy can be one of the most powerful mediums not only for storytelling, but also for narrative and culture change.</p> <p>In this critical time, we have an incredible opportunity to challenge existing narratives by using comedy to reach beyond the choir and influence public perception around immigrants and immigration in our country.</p> <p>Come join national renown comedians Felonious Munk, Zahra Noorbakhsh and others! (Included with full Summit ticket. <a href="https://www.universe.com/events/define-american-summit-comedy-night-tickets-RL2CVY">Comedy night only tickets also available</a>.</p>'
   subtype: culture
-  speakers: [4,16]
+  speakers: [4,16,28]
 -
   id: 014
   title: "Breakfast"
@@ -137,7 +137,7 @@
   title: "Lunch Plenary Panel: Writing Our Way Into America"
   description: "Culture and narrative change work are more important today than ever. How do the stories we see on television and representation in Hollywood impact the way we feel about marginalized communities and how we behave towards people of different experiences? Hollywood writers from your favorite primetime TV shows discuss their own projects and experiences, what it means to them, and how they envision long-lasting industry-wide change."
   subtype: workshop
-  speakers: [5,22,23,18]
+  speakers: [5,22,23,18,27]
 -
   id: 022
   title: "Performance for Community Organizing"
