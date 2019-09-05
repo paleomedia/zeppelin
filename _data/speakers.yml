@@ -5,7 +5,7 @@
   company: "Define American"
   title: "Executive Director"
   bio: "A descendant of nine generations from Appalachia, Ryan M. Eller is the Executive Director of Define American, the nations leading media and culture organization using the power of story to transcend politics and shift the conversation around immigrants, identity, and citizenship. Eller holds a B.S. in Political Science from Appalachian State University, a Masters Degree in Divinity from Wake Forest University, and a Masters Degree in Public Administration from Penn State University. Prior to joining Define American, he was the U.S. Campaigns Director at Change.org. For four years prior to that, he was the Executive Director of CHANGE in North Carolina—the largest broad-based community organizing group in the southern United States. He has extensive experience in the campaign arena as well, having managed political campaigns at both the local and federal level."
-  thumbnailUrl: RyanEller.png
+  thumbnailUrl: RyanEller.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/ellerryan"}
@@ -294,3 +294,17 @@
   social:
     - {name: "twitter", link: "http://twitter.com/louisvillemayor"}
     - {name: "instagram", link: "https://www.instagram.com/mayorgregfischer/"}
+-
+  id: 26
+  name: "Melinna"
+  surname: "Bobadilla"
+  company: "Orange is the New Black"
+  title: "Actor"
+  bio: "Melinna is an actor, singer, voice over artist, educator & translator actually born and raised in Los Angeles. After training & performing in New York City & the SF Bay Areea, she is back in LA to continue following her bliss as an actor! She has graced stages both bi-coastally and internationally (Spain, India, Cuba), and is now focusing her talents toward on-camera work. 
+​
+  Prior to attending NYU for graduate school,  she was an ensemble member of Luis Valdez's (La Bamba, Zoot Suit) renowned theater company, El Teatro Campesino. In addition, she trained in Meisner technique at the prestigious Maggie Flanigan Studio in New York City and also completed the Upright Citizen's Brigade's 4 level Improv program. Most recently, Melinna's rich voice and bilingual skills have booked her national voice over spots with clients such as TJ Maxx, McDonalds, hit video games, and Pacific Standard Time LA/LA.  You can catch her as 'Mary' in the  indie feature SF Noir: The Other Barrio opposite Richard Montoya (Culture Clash, Water & Power) as it makes its way through various film festivals. In April 2016, she booked the role of Lidia in Macro Ventures' first digital series, GENTEFIED, created by Marvin Lemus and Executive Produced by America Ferrera!!! Watch out for the release date of this fresh new digital series about Latinx's in LA!"
+  thumbnailUrl: MelinnaBobadilla.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/melinnateatrina"}
+    - {name: "instagram", link: "https://www.instagram.com/melinnabobadilla"}

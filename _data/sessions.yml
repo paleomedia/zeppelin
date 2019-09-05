@@ -21,7 +21,7 @@
   title: "Opening Plenary"
   description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books. According to the City of Louisville, the Louisville community has seen unprecedented growth in its immigrant population in recent years, and Louisville Metro Government’s Office for Globalization is implementing new strategies to engage the international population. We can think of no better place in which to tell these stories."
   subtype: plenary
-  speakers: [2,25]
+  speakers: [2]
   complexity: "Intermediate" 
   presentation: "https://vimeo.com/222286506/75d52f6d4f"
 -
@@ -50,7 +50,7 @@
   title: "Redefining Hollywood with Jose Antonio Vargas and Melinna Bobadilla (Orange is the New Black)"
   description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
   subtype: plenary
-  speakers: [3,25]
+  speakers: [3,26]
   # complexity: "Expert"
   # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
