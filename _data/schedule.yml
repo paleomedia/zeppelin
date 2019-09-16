@@ -98,11 +98,6 @@
     	endTime: "18:00",
     	sessionIds: [025]
     }
-    - {
-    	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [026]
-    }
 -
   date: "2019-10-13"
   dateReadable: "Sunday, October 13 (GALT House Hotel, 140 N Fourth St.)"
