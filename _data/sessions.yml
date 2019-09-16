@@ -163,12 +163,6 @@
   subtype: culture
   speakers: []
 -
-  id: 026
-  title: "Live Taping of Latino USA"
-  description: ""
-  subtype: workshop
-  speakers: [19,20]
--
   id: 027
   title: "Breakfast Plenary"
   description: "Lightning Round: A facilitated breakfast session to record closing 

@@ -199,34 +199,6 @@
     - {name: "twitter", link: "https://twitter.com/dinoray"}
     - {name: "instagram", link: "https://instagram.com/dinoray"}
 -
-  id: 19
-  name: "Julio Ricardo"
-  surname: "Varela"
-  company: "Futuro Media/Latino USA"
-  title: "Digital Media Director"
-  bio: "As Digital Media Director for Futuro Media, Julio (Julito) Ricardo Varela works with the Latino USA team to promote the show’s episodes and expand its social reach. He is a frequent contributor to the show and the editor of the show’s official site, LatinoUSA.org. He also co-hosts In The Thick with Maria Hinojosa. In 2011, Julio founded LatinoRebels.com, one of the top U.S. Latino media sites in the world. Previously, he was digital producer for Al Jazeera America’s “The Stream” and his work has been featured in many global outlets, including the Guardian, ESPN, the New York Times, Quartz, Le Monde, WGBH, WNYC, Face the Nation, MSNBC, Fusion, Univision and Telemundo. He has made numerous national TV appearances for Latino USA and Futuro Media.
-  
-  In 2015, the National Association of Hispanic Journalists honored Julio with its inaugural DALE (pronounced like Pitbull would say it) Award, given to “given to an individual or company that steps up and goes above and beyond to ensure Latinos are fairly and accurately represented.” A native of Puerto Rico, Julio spent his childhood between San Juan and the Bronx. He was also a contributing reporter at The Boston Globe. Julio graduated cum laude from Harvard College."
-  thumbnailUrl: JulioRicardoVarela.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/julito77"}
-    - {name: "instagram", link: "https://instagram.com/julito77"}
--
-  id: 20
-  name: "Maria"
-  surname: "Hinojosa"
-  company: "Futuro Media/Latino USA"
-  title: "President/CEO"
-  bio: "As a reporter who was the first Latina in many newsrooms, Maria Hinojosa dreamt of a space where she could create independent, multimedia journalism that explores and gives a critical voice to the diverse American experience. To that end, in 2010, she created the Futuro Media Group, an independent, nonprofit organization based in Harlem, NYC with the mission to create multimedia content for and about the new American mainstream in the service of empowering people to navigate the complexities of an increasingly diverse and connected world.
-
-  As the Anchor and Executive Producer of the Peabody Award-winning show Latino USA, distributed by NPR, as well as Co-Host of In The Thick, the Futuro Media Group’s new political podcast, Hinojosa has informed millions about the changing cultural and political landscape in America and abroad. Hinojosa is also Anchor and Executive Producer of the PBS show America By The Numbers, the first national television series to examine our country’s dramatic demographic shifts, and Humanizing America, a digital video series that deconstructs stereotypes about the American electorate. She is also a new contributor to the long-running, award-winning news program CBS Sunday Morning and a frequent guest on MSNBC."
-  thumbnailUrl: MariaHinojosa.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/Maria_Hinojosa"}
-    - {name: "instagram", link: "https://instagram.com/maria_la_hinojosa"}
--
   id: 21
   name: "Alex"
   surname: "Nowrasteh"
