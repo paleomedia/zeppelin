@@ -18,7 +18,7 @@
   presentation: "https://www.youtube.com/watch?time_continue=7&v=N7x23Qd61Kk"
 -
   id: 003
-  title: "Opening Plenary"
+  title: "Welcoming Panel"
   description: "In order to re-imagine American identity in the future, we must come together to tell America's 'whole' story, not just what is in our history books. According to the City of Louisville, the Louisville community has seen unprecedented growth in its immigrant population in recent years, and Louisville Metro Government’s Office for Globalization is implementing new strategies to engage the international population. We can think of no better place in which to tell these stories."
   subtype: plenary
   speakers: [2]
@@ -27,7 +27,7 @@
 -
   id: 004
   title: "Climate Change & Migration: The future of immigration in the age of climate change"
-  description: ""
+  description: "An overview and landscape for the challenges to come from the climate crisis, followed by breakout sessions where smaller groups will brainstorm how to help climate refugees in their communities."
   subtype: workshop
   speakers: [6]
   # complexity: "Beginner"
@@ -35,19 +35,19 @@
   video: "https://www.facebook.com/DefineAmerican/videos/611964985976945/UzpfSTM2OTE4MzkzOjEwMTAzMjM4MDkwOTQxOTYw/?q=define%20american%20lucky%20tran&epa=SEARCH_BOXQ"
 -
   id: 005
-  title: "How did we get here? Examining the state of our mental health."
-  description: ""
+  title: "Our priority: examining the state of our mental health and how we move forward."
+  description: "What does it mean to prioritize our mental health? As community members, we often set aside caring for our mental health as the lowest “to do” on our checklists. On the other hand, we also are bombarded with romanticized versions of “self-care” in the pursuit of mental wellness. In this session, we will have the opportunity to dig deeper into what is impacting our mental health and the importance of integrating intention and action for the sake of our well-being."
   subtype: workshop
   speakers: [17]
 -
   id: 006
   title: "How Artists Shape the Fabric of America"
-  description: ""
+  description: "A panel of artists from across the country will discuss the role of the artist in American society. How does the work of an artist affect the larger culture as well as individual communities? How can artists and their work be better integrated into community-based solutions?"
   subtype: workshop
   speakers: [9,10,13,12]
 -
   id: 007
-  title: "Redefining Hollywood with Jose Antonio Vargas and Melinna Bobadilla (Orange is the New Black)"
+  title: "Lunch Panel: Redefining Hollywood with Jose Antonio Vargas and Melinna Bobadilla (Orange is the New Black)"
   description: "What is the state of American identity today and how did we get here? Who we are as a country is about more than the laws and policies we uphold. The battle for the soul of America is not only being fought at the ballot box; it is being fought through the words we use and the stories we see on television. This is a culture war, and we have to create the right tools for the fight."
   subtype: plenary
   speakers: [3,26]
@@ -62,20 +62,20 @@
   speakers: []
 -
   id: 009
-  title: "Criminalization of Communities/Narratives:"
-  description: "Mass Detention and Mass Incarceration"
+  title: "Criminalization of Communities/Narratives: Mass Detention and Mass Incarceration"
+  description: "Too often, the systems that lead to mass incarceration and those that lead to mass detention are discussed as though they are different. But ultimately, both are propelled by an undergirding of white supremacy and a successful effort to create narratives that show people of color as criminals. Through this panel, we explore the intersection of two powerful movements for liberation and justice."
   subtype: workshop
   speakers: [7]
 -
   id: 010
   title: "The Art of Self-Care"
-  description: ""
+  description: "Dispelling the myth that artists must be overworked and unwell in order to be successful, this workshop will explore the role of art as a therapeutic practice. Teaching artists will lead participants in a hands-on artmaking activity that can be incorporated into their own regimens of self-care."
   subtype: workshop
   speakers: [9,11]
 -
   id: 011
-  title: "#FactsMatter #SourcesMatter"
-  description: "Tracking anti-immigrant hate in your community and across the media."
+  title: "#FactsMatter #SourcesMatter: Tracking anti-immigrant hate in your community and across the media."
+  description: "We will equip local activists with the training to push back on misinformation in their local media. We will take them through the latest research from Define American, including our campaigns around #WordsMatter and #SourcesMatter."
   subtype: workshop
   speakers: [15,24]
 -
@@ -105,19 +105,19 @@
 -
   id: 016
   title: "Cultural auditing to change the local narrative"
-  description: ""
+  description: "At Define American, we believe that we cannot change the politics around immigrants, without changing America’s culture around immigrants identity, and citizenship. This is why we must first understand the culture. This cultural audit will be a way to determine the starting line for local initiatives and campaigns needed in your community."
   subtype: workshop
   speakers: []
 -
   id: 017
   title: "The Art of Self-Care"
-  description: ""
+  description: "Dispelling the myth that artists must be overworked and unwell in order to be successful, this workshop will explore the role of art as a therapeutic practice. Teaching artists will lead participants in a hands-on artmaking activity that can be incorporated into their own regimens of self-care."
   subtype: workshop
   speakers: [9,11]
 -
   id: 018
-  title: "Can Comedy help Define American: How to use comedy to have uncomfortable conversations/reach across the aisle."
-  description: ""
+  title: "Can Comedy save us?"
+  description: "Comedy is one of the greatest social tools we can use to connect with someone who may have a different belief system than our own. It can be used to reach masses in organizing or to reach your own stubborn family members. Let's explore how best to use comedy in our strategic approach to change."
   subtype: workshop
   speakers: [4]
 -
@@ -137,29 +137,31 @@
   title: "Lunch Plenary Panel: Writing Our Way Into America"
   description: "Culture and narrative change work are more important today than ever. How do the stories we see on television and representation in Hollywood impact the way we feel about marginalized communities and how we behave towards people of different experiences? Hollywood writers from your favorite primetime TV shows discuss their own projects and experiences, what it means to them, and how they envision long-lasting industry-wide change."
   subtype: workshop
-  speakers: [5,22,23,18,27]
+  speakers: [5,22,18,27]
 -
   id: 022
   title: "Performance for Community Organizing"
-  description: ""
+  description: "Focusing on empowering your own voice as well as those around you, this workshop will lead participants through various aspects of theater performance that can be integrated into community organizing and storytelling, organizational and leadership development, and more."
   subtype: workshop
   speakers: [8]
 -
   id: 023
   title: "Resistance as Resilience: Using Digital Storytelling as a Tool to Survive & Thrive"
-  description: ""
+  description: "In 2012, Jose Antonio Vargas and 34 brave Undocumented Americans came out publicly on the cover of TIME Magazine. Their stories were instrumental in the Obama administration’s creation of DACA… but we are in a new era and a new administration. Define American, National Geographic, and the University of Massachusetts–Amherst followed up with the original 35 to find out how these courageous folks found resilience in their resistance and how we can learn from their insights how to build truly empowering and enduring Coming Out movements. In this session, you will get a first look at findings from this groundbreaking new study, slated for publication in national outlets in March 2020."
   subtype: workshop
   speakers: []
 -
   id: 024
   title: "Storytelling: Sharing your personal narrative for social change"
-  description: ""
+  description: "Your story matters, says poet Yosimar Reyes, a nationally-acclaimed Poet and Public Speaker. Born in Guerrero, Mexico, and raised in Eastside San Jose, Reyes explores the themes of migration and sexuality in his work and denies the dominant narrative of United States citizenship, that "real Americans" are blue-eyed, blond-haired, white, upper-middle class men fully assimilated into the American Dream. Learn how to share your own narrative for maximum impact, personal growth and cultural change."
   subtype: workshop
   speakers: []
 -
   id: 025
-  title: "Cultural and Mural Festival"
-  description: ""
+  title: "Depart at 2:45 for Mural Festival (Smoketown Neighborhood)"
+  description: "The Imagine Mural Festival is themed around Lean into Louisville, a 
+city-wide initiative launched by Louisville Metro Government in 
+2019 that explores and confronts the history and legacy of all forms of inequality and discrimination such as  civil rights, marriage equality and the welcoming of immigrants. Smoketown is a neighborhood of perseverance and home to a proud, majority African-American population with thriving church communities, active and capable non-profits, and successful businesses."
   subtype: culture
   speakers: []
 -
@@ -178,6 +180,18 @@ thoughts from the summit, reflect on work to be done, and propose next steps. We
 -
   id: 029
   title: "Closing remarks"
+  description: ""
+  subtype: workshop
+  speakers: []
+-
+  id: 030
+  title: "Bus Tours of Civil Rights History and Immigrant Heritage"
+  description: ""
+  subtype: workshop
+  speakers: []
+-
+  id: 031
+  title: "Open Nighttime Activities"
   description: ""
   subtype: workshop
   speakers: []
