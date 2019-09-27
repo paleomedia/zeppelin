@@ -65,7 +65,7 @@ heroButtons:
 aboutTitle: "Join us in Louisville"
 aboutBlock:
  - {title: "Summit", image: "conference.jpg", text: "The largest convening ever on American identity!" }
- - {title: "Workshops", image: "hackathon.jpg", text: "2.5 days of workshops, plenaries, difficult conversations, and hands-on training." }
+ - {title: "Workshops", image: "hackathon.jpg", text: "3 days of workshops, plenaries, difficult conversations, and hands-on training." }
  - {title: "Culture", image: "workshop.jpg", text: "Culture change in action with stand-up comedy, cultural festival, and culture change dialogue." }
 
 # Statistic Block
@@ -108,7 +108,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Muhammad Ali Center"
-venueFeatures: ["140 N. 6th St.","Red Carpet & Step & Repeat Backdrop", "Live DJ + Promigra Hip Hop", "Chapters Video Award"]
+venueFeatures: ["140 N. 6th St.","Doors at 5, reception at 6:30", "Cardinal Bhangra + Alexis Torres Machado", "Chapters Video Award"]
 
 #Comedy Night Block
 comedyBlockTitle: "Comedy Night"
@@ -117,7 +117,7 @@ comedySmallImage1: "comedy_1.png"
 comedySmallImage2: "comedy_2.jpg"
 comedySmallImage3: "comedy_3.jpg"
 comedyTitle: "Mercury Ballroom"
-comedyFeatures: ["Culture Changing Comedians", "611 S 4th St", "Felonious Monk","Zahra Noorbakhsh"]
+comedyFeatures: ["Culture Changing Comedians", "611 S 4th St", "Felonious Monk, Aparna Nancherla","Zahra Noorbakhsh, Atsuko Okatsuka"]
 comedyButtons:
  - {link: "https://www.universe.com/events/define-american-summit-comedy-night-tickets-RL2CVY", text: "Get Comedy Night tickets"}
 
@@ -139,7 +139,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Early bird prices"
+ticketsTitle: "Get your tickets today"
 ticketsInfo: "General admission tickets grant access to all summit sections, coffee breaks, lunch and parties. Accommodation is NOT included in the ticket price. A la carte tickets also available at ticketing link."
 ticketsOffers:
  -
@@ -231,7 +231,7 @@ directionDetailsTitle: "Get around Louisville"
 directionDetailsCards:
  - {title: "From the Louisville International Airport (SDF)", information: 'The airport is due south of the city center. It is easily reachable by car, public transport or taxi. More information is available at <a href="https://www.flylouisville.com/">airport website</a>.'}
  - {title: "Airport shuttle", information: 'Shuttle service from the airport can be reserved for a charge to the Galt House Hotel. Shuttle departs at quarter of and quarter to, from 7:15 am through 11:45 pm. $15 per one-way trip, or $25 per round trip. <br /><em>To reserve</em>: To reserve your seat on a shuttle, please contact Xtreme Transportation at (502) 561-4022 or galthouseshuttle@xtlimo.com. <br />Lyft and Uber services are readily available at the Louisville airport.'}
- - {title: "Accomodations", information: 'The Summit hotel is the <a href="https://www.galthouse.com/">Galt House Hotel</a>. In order to make reservations in our group block, visit <a href="https://book.passkey.com/event/49963226/owner/817279/home">our hotel booking page</a>. The group rate of $159/night will expire on September 20, 2019.'}
+ - {title: "Accomodations", information: 'The Summit hotel is the <a href="https://www.galthouse.com/">Galt House Hotel</a>. Our group rate is no longer available on the hotel website. Please email events@defineamerican.com if you still need a room.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
