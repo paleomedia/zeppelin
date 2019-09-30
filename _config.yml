@@ -117,7 +117,7 @@ comedySmallImage1: "comedy_1.png"
 comedySmallImage2: "comedy_2.jpg"
 comedySmallImage3: "comedy_3.jpg"
 comedyTitle: "Mercury Ballroom"
-comedyFeatures: ["Culture Changing Comedians", "611 S 4th St", "Felonious Monk, Aparna Nancherla","Zahra Noorbakhsh, Atsuko Okatsuka"]
+comedyFeatures: ["Culture Changing Comedians", "611 S 4th St", "Felonious Munk, Aparna Nancherla","Zahra Noorbakhsh, Atsuko Okatsuka"]
 comedyButtons:
  - {link: "https://www.universe.com/events/define-american-summit-comedy-night-tickets-RL2CVY", text: "Get Comedy Night tickets"}
 
