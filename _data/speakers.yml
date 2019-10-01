@@ -223,18 +223,6 @@
     - {name: "twitter", link: "https://twitter.com/monicamacer"}
     - {name: "instagram", link: ""}
 -
-  id: 23
-  name: "Sanjay"
-  surname: "Shah"
-  company: "Central Park (Apple), Fresh Off The Boat, Enlisted, South Park, King of the Hill, Pixar"
-  title: "TV Writer/Co-showrunner"
-  bio: ""
-  thumbnailUrl: SanjayShah.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/sanjayshah"}
-    - {name: "instagram", link: ""}
--
   id: 24
   name: "Hassan"
   surname: "Ahmad"
@@ -317,8 +305,8 @@
   id: 29
   name: "Ulyses"
   surname: "Dorantes"
-  company: ""
-  title: "Define American Chapter President"
+  company: "Define American | Humboldt State"
+  title: "Chapter President"
   bio: "Ulyses Dorantes is a critical rhetoric scholar completing his BA in Communication at Humboldt State University. Uly is an educator at heart, and has a breadth of personal and professional experience that allow him to be a dynamic ally within his rural community. This will be his first formal panel presentation, and he will be discussing right-wing radicalization in rural communities and online spaces, and how a combination of peer & online anonymous sources contribute to anti-immigrant rhetoric."
   thumbnailUrl: UlysesDorantes.jpg
   rockstar: false
