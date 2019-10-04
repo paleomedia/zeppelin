@@ -313,20 +313,19 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "instagram", link: ""}
-  -
+-
   id: 30
   name: "Kristie"
   surname: "De Peña"
   company: "Niskanen Center"
   title: "Vice President of Policy and Director of Immigration"
-  bio: "Kristie De Peña is the Vice President of Policy and Director of Immigration with the Niskanen Center. She focuses on immigration and national security law and policy and earned her J.D. from the University of Iowa College of Law, and a Master of Laws in national security and foreign policy from the George Washington University School of Law. She consulted with the Department of State and Department of Health and Human Services on immigration, healthcare, and security issues prior to her work at the Niskanen Center. Her recent work has been cited in the Washington Examiner, RealClearPolicy, National Review, The Hill, The American Conservative, Huffington Post, Newsweek, and Reason.
-"
+  bio: "Kristie De Peña is the Vice President of Policy and Director of Immigration with the Niskanen Center. She focuses on immigration and national security law and policy and earned her J.D. from the University of Iowa College of Law, and a Master of Laws in national security and foreign policy from the George Washington University School of Law. She consulted with the Department of State and Department of Health and Human Services on immigration, healthcare, and security issues prior to her work at the Niskanen Center. Her recent work has been cited in the Washington Examiner, RealClearPolicy, National Review, The Hill, The American Conservative, Huffington Post, Newsweek, and Reason."
   thumbnailUrl: KristieDePeña.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
     - {name: "instagram", link: ""}
-  -
+-
   id: 31
   name: "Daniel"
   surname: "Garza"
