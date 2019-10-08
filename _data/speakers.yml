@@ -337,3 +337,150 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "instagram", link: ""}
+-
+  id: 32
+  name: "Atsuko"
+  surname: "Okatsuka"
+  company: ""
+  title: "Comedian"
+  bio: ""
+  thumbnailUrl: AtsukoOkatsuka.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 33
+  name: "Cardinal Banghra"
+  surname: ""
+  company: "University of Louisville"
+  title: "Dance Troop"
+  bio: "Cardinal Bhangra was started by a few Indian American students at The University of Louisville, to exemplify their heritage proudly, Cardinal Bhangra has expanded to become one of the most celebrated Indian Dance teams in Kentucky.  Bhangra is a traditional Indian style of dance, originating from the Northern region of India, Punjab, as a way for farmers to celebrate and welcome the harvest season. In addition to performing at events around Louisville, our team competes on the intercollegiate and professional level with teams from around the country. We recently won 1st place at the Taste of India Competition at the University of Alabama - Birmingham.
+"
+  thumbnailUrl: CardinalBanghra.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 35
+  name: "Marcia"
+  surname: "Davis"
+  company: ""
+  title: "Reporter and Editor"
+  bio: ""
+  thumbnailUrl: MarciaDavis.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 36
+  name: "Angel"
+  surname: "Ramos"
+  company: "Fresh Lifelines for Youth"
+  title: ""
+  bio: ""
+  thumbnailUrl: AngelRamos.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 37
+  name: "Kristian"
+  surname: "Ramos"
+  company: "Define American"
+  title: "Communications Director"
+  bio: "Kristian Ramos is the Communications Director for Define American who proudly hails from the Southwest.  Kristian has work experience in both the House and Senate working most recently for Media Matters For America. Prior to that he worked for the Mayor of Washington DC, he was the communications director for the Congressional Hispanic Caucus and began his communications career in the United States Senate for then Majority Leader Harry Reid in the Democratic Communications Center. Kristian began his career working for the League of United Latin American Citizens (LULAC), the largest Latino civil rights and advocacy groups in the country. He has a Masters Degree in Governmental Affairs from Johns Hopkins University. He wishes the District of Columbia had better Mexican food."
+  thumbnailUrl: KristianRamos.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 38
+  name: "Jorge"
+  surname: "Contreras"
+  company: "UTRGV, Rutgers-Camden Executive Board"
+  title: "Chapter Leader"
+  bio: "Jorge Contreras is a native of San Luis Potosi, Mexico he moved to the United States at the age of 2 with his parents in search of new opportunities and a better education for him and his two siblings. Growing up in the small border town of La Feria, Texas, Jorge was able to embrace his Mexican heritage as well as getting to love the American way of life. Education and servitude played a major role in the development of Jorge from high school into the transition of college due to his mother’s influence. It was from her influence that he was able to graduate at the top of his class and is currently attending the University of Texas at Rio Grande Valley. Jorge was able to stay close to home as well as advocating for undocumented students within the university. Being a Biology major with a psychology minor, has helped him have a career aspiration of becoming a doctor and coming back to the Rio Grande Valley and help establish programs that will better the community. 
+  The Define American chapter of the University of Texas at Rio Grande Valley strives to bring a voice to the undocumented students at the university. By creating a safe space where dialogue is encouraged as well as the uplift of the student’s success is key. With the collaboration with the Dream Center at the university, it is where the chapter will be able to get a greater outreach and understanding the issues that go on with the university as well as having those conversations that will lead to change. It is with the best of the chapter to welcome all and reach an inclusion where all people can come and really be themselves. Having that community is when the issues will have a face and with the power of media establish change within the university as well as the community."
+  thumbnailUrl: JorgeContreras.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 39
+  name: "Malcolm"
+  surname: "Neale"
+  company: "Case Western Reserve University"
+  title: "Chapter Leader"
+  bio: "Malcolm Neale is one of the co-founders of the Case Western Reserve University chapter of Define American. A couple of close friends and he heard about the organization through one of Jose’s presentations at their school's annual Unity Banquet. In hearing his story, they felt a call to action and set out to develop a chapter of Define American on their campus. They officially began in August of 2019 and have been able to host a few events and dialogues since then. They adopted the mission and principles of the national organization and identify themselves as a media organization that strives to bring awareness to the underlying stigmas around immigration and American identity in local news, media, and programming. They aim to shift conversations and bring these topics to the attention of the campus community and the greater Cleveland area through cultural events, dialogues, and storytelling."
+  thumbnailUrl: MalcolmNeale.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 40
+  name: "Valeria"
+  surname: "Rodriguez"
+  company: "Define American"
+  title: "Chapters Coordinator"
+  bio: "Valeria Rodriguez is the National Campus Coordinator responsible for coordinating Define American Chapters. Valeria holds a B.A. in Spanish and Political Science from the University of Nebraska-Lincoln, where she was the founder of the Define American Chapter @ UNL, which was named 2016 Chapter of the Year. During her time at UNL, Valeria established the Dr. Juan Franco Legacy Scholarship to help undocumented and DACAmented students. She interned with Nebraska Appleseed for four years, serving as the Women Empowered to Lead program coordinator and field organizer for the Immigrants and Communities program."
+  thumbnailUrl: ValeriaRodriguez.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 41
+  name: "Jesus"
+  surname: "Pineda-Ramirez"
+  company: "Define American Chapters"
+  title: ""
+  bio: ""
+  thumbnailUrl: JesusPineda.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 42
+  name: "Sarah"
+  surname: "Lowe"
+  company: "Define American"
+  title: "Research Manager"
+  bio: ""
+  thumbnailUrl: SarahLowe.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 43
+  name: "Danyeli"
+  surname: "Rodriguez Del Orbe"
+  company: ""
+  title: "Spoken Word Artist and Poet"
+  bio: "Danyeli Rodriguez Del Orbe is a Bronx-raised, Afro-Dominican spoken word poet, keynote speaker, and workshop facilitator.  She was one of four members of the first Bronx-based all latinx poetry slam team, project x, with whom she competed at Northeast Regional Slam Competition. Her poetry has traveled as far as Aruba's Poetry is an Island festival, and she has been featured by People En Espanol, Bronx Museum of Arts, and Crooked Media to name a few. Danyeli is also the co-host of loose accents, a latinx podcast that highlights the immigrant experiences of the East and West coast.  In addition to performing, Danyeli has been an avid advocate for immigrant rights, receiving the 2010 New York State Dream Activist Award from AFL-CIO. Her dedication also led her to become a candidate of the Vera Fellowship for Social Justice, DREAM Fellowship, and Immigrant Justice Fellowship. After finishing her third fellowship in August 2018, she moved to South Los Angeles where she currently resides and works full-time as an immigration and family law paralegal."
+  thumbnailUrl: DanyeliRodriguezDelOrbe3.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+-
+  id: 44
+  name: "Nathaniel"
+  surname: "Hoffman"
+  company: "Define American"
+  title: "Communications Manager"
+  bio: "Nathaniel Hoffman is the Communications Manager at Define American. He is responsible for pitching media, holding media accountable, and helping demonstrate the power of storytelling to shift public perception. Nathaniel has almost 20 years experience as a journalist, editor and author. He’s written for daily and weekly newspapers in Idaho and California, reported from abroad, and co-authored the book Amor and Exile: True Stories of Love Across America’s Borders (2013). Nathaniel has a B.A. in Africana Studies from Cornell University and an M.A. in Data Journalism from Boise State University. He’s based in Boise, Idaho."
+  thumbnailUrl: NathanielHoffman.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
+    
