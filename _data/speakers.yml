@@ -270,7 +270,7 @@
     - {name: "instagram", link: "https://www.instagram.com/melinnabobadilla"}
 -
   id: 27
-  name: "Mary Angelica"
+  name: "Mary Angélica"
   surname: "Molina"
   company: "Party of Five"
   title: "Writer/Director/Producer"
@@ -320,7 +320,7 @@
   company: "Niskanen Center"
   title: "Vice President of Policy and Director of Immigration"
   bio: "Kristie De Peña is the Vice President of Policy and Director of Immigration with the Niskanen Center. She focuses on immigration and national security law and policy and earned her J.D. from the University of Iowa College of Law, and a Master of Laws in national security and foreign policy from the George Washington University School of Law. She consulted with the Department of State and Department of Health and Human Services on immigration, healthcare, and security issues prior to her work at the Niskanen Center. Her recent work has been cited in the Washington Examiner, RealClearPolicy, National Review, The Hill, The American Conservative, Huffington Post, Newsweek, and Reason."
-  thumbnailUrl: KristieDePeña.png
+  thumbnailUrl: KristieDePena.jpg
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -351,13 +351,13 @@
     - {name: "instagram", link: ""}
 -
   id: 33
-  name: "Cardinal Banghra"
+  name: "Cardinal Bhangra"
   surname: ""
   company: "University of Louisville"
   title: "Dance Troop"
   bio: "Cardinal Bhangra was started by a few Indian American students at The University of Louisville, to exemplify their heritage proudly, Cardinal Bhangra has expanded to become one of the most celebrated Indian Dance teams in Kentucky.  Bhangra is a traditional Indian style of dance, originating from the Northern region of India, Punjab, as a way for farmers to celebrate and welcome the harvest season. In addition to performing at events around Louisville, our team competes on the intercollegiate and professional level with teams from around the country. We recently won 1st place at the Taste of India Competition at the University of Alabama - Birmingham.
 "
-  thumbnailUrl: CardinalBanghra.jpg
+  thumbnailUrl: CardinalBhangra.jpeg
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -369,7 +369,7 @@
   company: ""
   title: "Reporter and Editor"
   bio: ""
-  thumbnailUrl: MarciaDavis.jpg
+  thumbnailUrl: gradient.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -381,7 +381,7 @@
   company: "Fresh Lifelines for Youth"
   title: ""
   bio: ""
-  thumbnailUrl: AngelRamos.jpg
+  thumbnailUrl: gradient.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -406,7 +406,7 @@
   title: "Chapter Leader"
   bio: "Jorge Contreras is a native of San Luis Potosi, Mexico he moved to the United States at the age of 2 with his parents in search of new opportunities and a better education for him and his two siblings. Growing up in the small border town of La Feria, Texas, Jorge was able to embrace his Mexican heritage as well as getting to love the American way of life. Education and servitude played a major role in the development of Jorge from high school into the transition of college due to his mother’s influence. It was from her influence that he was able to graduate at the top of his class and is currently attending the University of Texas at Rio Grande Valley. Jorge was able to stay close to home as well as advocating for undocumented students within the university. Being a Biology major with a psychology minor, has helped him have a career aspiration of becoming a doctor and coming back to the Rio Grande Valley and help establish programs that will better the community. 
   The Define American chapter of the University of Texas at Rio Grande Valley strives to bring a voice to the undocumented students at the university. By creating a safe space where dialogue is encouraged as well as the uplift of the student’s success is key. With the collaboration with the Dream Center at the university, it is where the chapter will be able to get a greater outreach and understanding the issues that go on with the university as well as having those conversations that will lead to change. It is with the best of the chapter to welcome all and reach an inclusion where all people can come and really be themselves. Having that community is when the issues will have a face and with the power of media establish change within the university as well as the community."
-  thumbnailUrl: JorgeContreras.jpg
+  thumbnailUrl: gradient.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -418,7 +418,7 @@
   company: "Case Western Reserve University"
   title: "Chapter Leader"
   bio: "Malcolm Neale is one of the co-founders of the Case Western Reserve University chapter of Define American. A couple of close friends and he heard about the organization through one of Jose’s presentations at their school's annual Unity Banquet. In hearing his story, they felt a call to action and set out to develop a chapter of Define American on their campus. They officially began in August of 2019 and have been able to host a few events and dialogues since then. They adopted the mission and principles of the national organization and identify themselves as a media organization that strives to bring awareness to the underlying stigmas around immigration and American identity in local news, media, and programming. They aim to shift conversations and bring these topics to the attention of the campus community and the greater Cleveland area through cultural events, dialogues, and storytelling."
-  thumbnailUrl: MalcolmNeale.jpg
+  thumbnailUrl: gradient.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -442,7 +442,7 @@
   company: "Define American Chapters"
   title: ""
   bio: ""
-  thumbnailUrl: JesusPineda.jpg
+  thumbnailUrl: gradient.png
   rockstar: false
   social:
     - {name: "twitter", link: ""}
@@ -452,8 +452,8 @@
   name: "Sarah"
   surname: "Lowe"
   company: "Define American"
-  title: "Research Manager"
-  bio: ""
+  title: "Digital Strategist/Research"
+  bio: "Responsible for digital communications and audience engagement strategies for Define American. Sarah has over fifteen years of experience crafting cross-platform media campaigns for The Walt Disney Company, Nintendo, Cigna, PBS, and Discovery Channel. She has also been at the forefront of launching large-scale netroots movements in conjunction with arts-based nonprofits including American Promise, Question Bridge: Black Males, and Land of Opportunity. Sarah holds a B.A. in English from Wittenberg University, a master’s in Professional Writing from the University of Southern California, and is currently pursuing her Ph.D. in Health Promotion and Policy at the University of Massachusetts Amherst with a focus on Global Migration and Community Building in the Digital Age."
   thumbnailUrl: SarahLowe.jpg
   rockstar: false
   social:

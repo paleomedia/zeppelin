@@ -166,15 +166,14 @@ city-wide initiative launched by Louisville Metro Government in
   speakers: []
 -
   id: 027
-  title: "Breakfast Plenary"
-  description: "Lightning Round: A facilitated breakfast session to record closing 
-thoughts from the summit, reflect on work to be done, and propose next steps. We will nominate a few featured speakers and open the floor for brief comments from anyone who has something to share."
+  title: "Breakfast Panel"
+  description: "Lightning Round: A facilitated breakfast session to record closing thoughts from the summit, reflect on work to be done, and propose next steps. We will nominate a few featured speakers and open the floor for brief comments from anyone who has something to share."
   subtype: plenary
   speakers: []
 -
   id: 028
   title: "Define American Chapter Elections"
-  description: ""
+  description: "Chapter Breakfast & Elections (by invitation only)"
   subtype: workshop
   speakers: []
 -
@@ -192,6 +191,12 @@ thoughts from the summit, reflect on work to be done, and propose next steps. We
 -
   id: 031
   title: "Open Nighttime Activities"
+  description: ""
+  subtype: workshop
+  speakers: []
+-
+  id: 032
+  title: "Departures"
   description: ""
   subtype: workshop
   speakers: []
