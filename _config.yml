@@ -73,7 +73,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "72", specialCharacter: "+", info: "hours", detail: "of pure culture change strategy and tactics"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from across the nation and the political spectrum"}
+ - {count: "40", specialCharacter: "+", info: "speakers", detail: "from across the nation and the political spectrum"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus culture & entertainment"}
 
 # Latest News Block
