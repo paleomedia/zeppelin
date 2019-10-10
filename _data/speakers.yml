@@ -483,4 +483,16 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "instagram", link: ""}
+-
+  id: 45
+  name: "Aaliyah"
+  surname: "Williams"
+  company: "Aaliyah Williams (Gentefied) is the former Chief of Digital at MACRO Entertainment and the founder of Just A Rebel Productions. She’s the Executive Producer of the highly anticipated Gentefied coming to Netflix this fall and the forthcoming feature Really Love starring Kofi Siribo and Uzo Aduba."
+  title: "Producer"
+  bio: ""
+  thumbnailUrl: AaliyahWilliams.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "instagram", link: ""}
     
